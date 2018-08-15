@@ -20,4 +20,4 @@ You can use:
   **Example:** 
 It's very easy to make some words **bold** and other words *italic* and ***bold italic*** with Markdown.
 
-You can use ~~strikethrough~~ font
+You can use ~~strikethrough~~ font1111
